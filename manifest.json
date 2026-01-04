@@ -1,8 +1,8 @@
 {
   "name": "Admin Tool",
   "short_name": "Efootball Mod 2026",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#050111",
   "theme_color": "#ff2a2a",
